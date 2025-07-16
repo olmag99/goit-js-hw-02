@@ -22,7 +22,6 @@ function getAllPropValues(propName) {
       } if ( propName === "quantity") {
         for (const product of products) {
           resultArray.push(products.quantity)
-          console.log(resultArray)
          };
         console.log(resultArray)
       } else {
