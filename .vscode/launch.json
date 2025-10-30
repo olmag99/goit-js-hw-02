@@ -9,8 +9,7 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}/example.js",
-            ""
-        }
+        },
     ],
     "compounds": []
 }
